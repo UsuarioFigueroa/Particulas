@@ -1,2 +1,2 @@
 <h1>
-Comienzo del Proyecto Particulas </h1>
+Comienzo del Proyecto particulas </h1>
